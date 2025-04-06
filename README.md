@@ -10,7 +10,6 @@
 🔬 Undergraduate Researcher at CoSY Lab, working on peptide toxicity classification  
 🔬 Former Undergraduate Researcher at Ray Labs, developing neural networks for protein prediction  
 💻 Full Stack Developer with experience in React.js, Flask, and MySQL  
-🌱 Currently exploring Machine Learning and Data Science applications in healthcare  
 ⚡ Fun fact: I'm passionate about using technology to solve real-world problems!
 
 ## 🛠️ Technologies & Tools
@@ -39,25 +38,54 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman22311&theme=tokyonight&layout=compact" />
 </a>
 
+## 🚀 Featured Projects
+
+<a href="https://github.com/Naman22311/SportSwiftDB">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Naman22311&repo=SportSwiftDB&theme=tokyonight" />
+</a>
+<a href="https://github.com/SDOS-2025/Asadel-Technologies">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SDOS-2025&repo=Asadel-Technologies&theme=tokyonight" />
+</a>
+<a href="https://github.com/Naman22311/MeMS-Memory-Management-System">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Naman22311&repo=MeMS-Memory-Management-System&theme=tokyonight" />
+</a>
+<a href="https://github.com/Naman22311/StickHero">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Naman22311&repo=StickHero&theme=tokyonight" />
+</a>
+
+### [Asadel-Technologies](https://github.com/SDOS-2025/Asadel-Technologies)
+
+### [SportSwiftDB](https://github.com/Naman22311/SportSwiftDB)
+
+### [MeMS-Memory-Management-System](https://github.com/Naman22311/MeMS-Memory-Management-System)
+
+### [StickHero](https://github.com/Naman22311/StickHero)
+
 ## 📚 Research Experience
 
 ### CoSY Lab, IIIT Delhi (Jan 2025 – Present)
+- Working on peptide toxicity classification using ensemble models
 
 ### Ray Labs, IIIT Delhi (Aug 2024 – Dec 2024)
+- Developed neural networks for protein prediction from mass spectrometry data
 
 ## 🎯 LeetCode Stats
 
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=namanjindal2004&theme=dark)](https://leetcode.com/u/namanjindal2004/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/namanjindal2004?theme=dark&font=Baloo%202&ext=contest)
 
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=naman22311&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+## 📊 Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 📫 Contact Me
 
 - Email: [naman22311@iiitd.ac.in](mailto:naman22311@iiitd.ac.in)
 - LinkedIn: [Naman Jindal](https://www.linkedin.com/in/namanjindal-iiitd/)
-- Phone: +91 9136969191
 
 ---
 
