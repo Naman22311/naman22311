@@ -11,7 +11,7 @@
 🔬 Former Undergraduate Researcher at Ray Labs, developing neural networks for protein prediction  
 💻 Full Stack Developer with experience in React.js, Flask, and MySQL  
 🌱 Currently exploring Machine Learning and Data Science applications in healthcare  
-⚡ Fun fact: I'm passionate about using technology to solve real-world problems in agriculture and healthcare!
+⚡ Fun fact: I'm passionate about using technology to solve real-world problems!
 
 ## 🛠️ Technologies & Tools
 
@@ -39,34 +39,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman22311&theme=tokyonight&layout=compact" />
 </a>
 
-## 🚀 Featured Projects
-
-### [FireSmoke Detection System](https://github.com/naman22311/firesmoke-detection)
-![Stars](https://img.shields.io/github/stars/naman22311/firesmoke-detection?style=flat)
-
-A full-stack web application for real-time fire and smoke detection, enhancing safety monitoring. Built with React.js, JavaScript, Bootstrap, and designed with Figma.
-
-### [SportSwiftDB](https://github.com/naman22311/sportswiftdb)
-![Stars](https://img.shields.io/github/stars/naman22311/sportswiftdb?style=flat)
-
-A full-stack e-commerce platform for sports equipment using Flask and MySQL, featuring conditional product search, cart management, and secure user authentication.
-
-### [AgriPredict](https://github.com/naman22311/agripredict)
-![Stars](https://img.shields.io/github/stars/naman22311/agripredict?style=flat)
-
-A machine learning model to predict crop yields using environmental and agricultural data, promoting food security and sustainable farming. Achieved an R² score of 0.989.
-
 ## 📚 Research Experience
 
 ### CoSY Lab, IIIT Delhi (Jan 2025 – Present)
-- Working on peptide toxicity classification using ensemble models
-- Applied PCA and RFE for dimensionality reduction and feature selection
-- Achieved 92% accuracy and 95% ROC-AUC with ensemble models
 
 ### Ray Labs, IIIT Delhi (Aug 2024 – Dec 2024)
-- Developed neural networks for protein prediction from mass spectrometry data
-- Performed EDA on 812k+ rows and 1k+ features
-- Achieved R² = 0.674 and Pearson's correlation = 0.826
 
 ## 🎯 LeetCode Stats
 
