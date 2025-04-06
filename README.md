@@ -53,13 +53,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Naman22311&repo=StickHero&theme=tokyonight" />
 </a>
 
-### [Asadel-Technologies](https://github.com/SDOS-2025/Asadel-Technologies)
-
-### [SportSwiftDB](https://github.com/Naman22311/SportSwiftDB)
-
-### [MeMS-Memory-Management-System](https://github.com/Naman22311/MeMS-Memory-Management-System)
-
-### [StickHero](https://github.com/Naman22311/StickHero)
 
 ## 📚 Research Experience
 
@@ -69,13 +62,6 @@
 ### Ray Labs, IIIT Delhi (Aug 2024 – Dec 2024)
 - Developed neural networks for protein prediction from mass spectrometry data
 
-## 🎯 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/namanjindal2004?theme=dark&font=Baloo%202&ext=contest)
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=naman22311&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 Coding Activity
 
