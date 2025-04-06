@@ -1,4 +1,4 @@
-# Hello, I'm Naman Jindal 👋
+# Hello, I'm Naman Jindal 👋 
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/namanjindal-iiitd/)](https://www.linkedin.com/in/namanjindal-iiitd/)
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/u/namanjindal2004/)](https://leetcode.com/u/namanjindal2004/)
